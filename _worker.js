@@ -363,7 +363,7 @@ export default {
 				const responseText = `
 			缺少必填参数：host 和 uuid
 			Missing required parameters: host and uuid
-			پارامترهای ضروری وارد نشده: هاست و یوآی‌دی
+		
 			
 			${url.origin}/sub?host=[your host]&uuid=[your uuid]&path=[your path]
 			
